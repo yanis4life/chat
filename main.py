@@ -17,7 +17,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Configuration
-BOT_TOKEN = "8924085297:AAF0ik7vvXG7qMfw93cy1Zfo6aH9Gd0RtKI"
+BOT_TOKEN = "8484936306:AAGtSO82kuy_ON4fDwUjS4pEBBKCxDa90rEI"
 ALLOWED_USERS = [7125289523]  # Your user ID
 
 # Use home directory instead of /root
